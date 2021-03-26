@@ -1,0 +1,17 @@
+[
+{
+  "modid": "iridiumsource",
+  "name": "Iridium Source",
+  "description": "Adds a way of getting Iridium from Platina",
+  "version": "2.0.1",
+  "mcversion": "1.12.2",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/iridium-source",
+  "updateUrl": "https://minecraft.curseforge.com/projects/iridium-source/files",
+  "authorList": ["lavX64"],
+  "credits": "CLOVERsquare.",
+  "logoFile": "",
+  "screenshots": [],
+  "parent": "ic2",
+  "dependencies": ["ic2"]
+}
+]

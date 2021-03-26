@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+        	"type": "forge:ore_dict",
+            "ore": "dustGold"
+        },
+        {
+        	"item": "iridiumsource:iridium_193"
+        },
+        {
+        	"item": "iridiumsource:iridium_191"
+        }
+    ],
+    "result": {
+        "item": "iridiumsource:complex_compound_iridium"
+    }
+}
